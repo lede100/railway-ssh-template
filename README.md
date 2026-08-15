@@ -58,6 +58,4 @@ echo 'root:你的密码' | chpasswd
 |------|------|
 | `Dockerfile` | Ubuntu 22.04 + openssh-server |
 
-## 示例服务
-
 - 云盘：https://love-parker-newer-america.trycloudflare.com
